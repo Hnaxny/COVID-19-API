@@ -10,3 +10,6 @@
 https://static.easysunday.com/covid-19/getTodayCases.json
 --------
 ** หากไม่รู้เกี่ยวกับคำสั่ง ห้ามแก้ไขข้อมลูเด็ดขาด
+---------------
+หากไฟล์มีปัญหากรุณาติดต่อ 
+https://www.facebook.com/Theerapat.me/

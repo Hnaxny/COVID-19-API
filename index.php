@@ -1,3 +1,6 @@
+<?php 
+include 'script.php';
+ ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,6 +15,13 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
     <!-- Material Design Bootstrap -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.18.0/css/mdb.min.css" rel="stylesheet">
+
+     <script src="script.php"></script>
+    <link rel="stylesheet" href=
+"https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity=
+"sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+        crossorigin="anonymous">
 
 </head>
 <body>
@@ -106,3 +116,4 @@ $data = json_decode($api,true);
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.18.0/js/mdb.min.js"></script>
 </body>
 </html>
+ 
